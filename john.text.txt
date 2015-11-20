@@ -1,1 +1,11 @@
+
 dding some line but dont wish to merge until I command it
+
+dding another line by Amber
+
+Adding a line from john repo
+
+Incorporatin changes from john as updating changes
+
+Adding the line to be merged with fetch from amber
+
